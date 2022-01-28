@@ -1,0 +1,40 @@
+@charset "UTF-8";
+body {
+    background-image: linear-gradient(to right,  rgba(65, 73, 83, 0.993), rgba(85, 82, 129, 0.664) );
+}
+.logo {
+    top: 0;
+    margin: auto;
+    position: absolute;
+    
+}
+
+.nome {
+    color: #4BBFB4;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    font-size: 25px;
+}
+.imagens{
+    text-align: center;
+}
+h2 {
+    color: #F288B9;
+    font-family: 'Sedgwick Ave', cursive;
+    font-size: 15px;
+    margin-top: 20px;
+    text-align: center;
+    
+}
+
+h3 {
+    color: #D996BB;
+    font-family: 'Satisfy', cursive;
+    font-size: 12px;
+    text-align: center
+
+}
+.Whatsapp {
+margin-top: 10px;
+
+}
